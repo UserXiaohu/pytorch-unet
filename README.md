@@ -18,5 +18,8 @@
 
 博客地址：https://blog.csdn.net/m0_47220500/article/details/121487582
 
-代码获取地址：http://shiyuncode.com/details?id=38
+# 零、项目获取
+获取方式（点击下载）：[是云猿实战](https://shiyuncode.com/details?goodsCode=C00038)
+
+项目经过多人测试运行，可以确保100%成功运行。
 
